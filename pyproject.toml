@@ -1,0 +1,21 @@
+[project]
+name = "jupytercon-2025"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "jupytercad-lab>=3.1.7",
+    "jupytercad-lite>=3.1.7",
+    "jupyterlab>=4.5.0a3",
+    "jupyterlab-browser-ai>=0.5.0",
+    "jupyterlab-cursor-theme>=1.0.1",
+    "jupyterlite>=0.7.0a5",
+    "jupyterlite-ai>=0.9.0a4",
+    "jupyterlite-core>=0.7.0b0",
+    "jupyterlite-pyodide-kernel>=0.7.0b0",
+    "matplotlib>=3.10.6",
+    "notebook>=7.5.0b0",
+    "numpy>=2.3.3",
+    "pandas>=2.3.2",
+]
