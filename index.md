@@ -302,7 +302,12 @@ https://github.com/jupyter-ai-contrib/jupyterlab-diff
 
 ---
 
-TODO: screencast of LiteLLM
+<video
+  controls
+  width="100%"
+  height="600px"
+  src="https://github.com/user-attachments/assets/24ed23ab-1cde-4179-805a-de70c09d8561">
+</video>
 
 ---
 
@@ -404,29 +409,47 @@ https://modelcontextprotocol.io
 
 ---
 
+# Generate alt text for images
+
 <video
   controls
   width="100%"
-  height="600px"
+  height="500px"
   src="https://github.com/user-attachments/assets/da53a662-af35-4302-b72f-dcf9eecefb45">
 </video>
 
 ---
 
+# Generate transcripts
+
 <video
   controls
   width="100%"
-  height="600px"
+  height="500px"
   src="https://github.com/user-attachments/assets/1ffab2d6-94f3-4b53-abac-374f0adc33b7">
 </video>
 
 ---
 
-TODO: Proofreader API demo
+# Proofread notebooks
+
+<video
+  controls
+  width="100%"
+  height="500px"
+  src="https://github.com/user-attachments/assets/282e5c54-6fe1-4809-91a4-be3b040a0ff2">
+</video>
 
 ---
 
-TODO: Summarizer API demo
+# Summarize files
+
+<video
+  controls
+  width="100%"
+  height="500px"
+  src="https://github.com/user-attachments/assets/0d31a614-32e2-4c12-91aa-289a7ae9ed2e">
+</video>
 
 ---
 
