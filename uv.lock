@@ -824,7 +824,7 @@ wheels = [
 ]
 
 [[package]]
-name = "jupytercon-2025"
+name = "jupytercon-2025-browser-ai-workflows"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
@@ -848,7 +848,7 @@ requires-dist = [
     { name = "jupytercad-lab", specifier = ">=3.1.7" },
     { name = "jupytercad-lite", specifier = ">=3.1.7" },
     { name = "jupyterlab", specifier = ">=4.5.0a3" },
-    { name = "jupyterlab-browser-ai", specifier = ">=0.5.0" },
+    { name = "jupyterlab-browser-ai", specifier = ">=0.5.1" },
     { name = "jupyterlab-cursor-theme", specifier = ">=1.0.1" },
     { name = "jupyterlite", specifier = ">=0.7.0a5" },
     { name = "jupyterlite-ai", specifier = ">=0.9.0a4" },
@@ -886,14 +886,14 @@ wheels = [
 
 [[package]]
 name = "jupyterlab-browser-ai"
-version = "0.5.0"
+version = "0.5.1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "jupyterlite-ai" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/71/70/92730e2052b4cff2b8b7466039e36452a7dfb92dd233841bdff100e489ab/jupyterlab_browser_ai-0.5.0.tar.gz", hash = "sha256:e6afda61223f55503405d4b3d33153c53712316877632fc2e56130e803edd523", size = 2180582, upload-time = "2025-10-28T18:02:30.381Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/3e/c5/02ac4ad47a9e254a7cd5902a842b1764d346cf8b643f35e68c60b71b64f5/jupyterlab_browser_ai-0.5.1.tar.gz", hash = "sha256:54e8e625648b1b28bf5d91a187f2d459cabbcfc84b6ee98058d6aa761c7d0765", size = 2180674, upload-time = "2025-10-29T08:36:12.245Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/65/11/3572268b15fbbbbb8ee3d79f41e2c559b70bb14abf47ad8b892d88712e32/jupyterlab_browser_ai-0.5.0-py3-none-any.whl", hash = "sha256:90fb3ff77dbac8b7907d089cd3b28ae883335450b08a0a1265b069d4f6a0b3e8", size = 4173538, upload-time = "2025-10-28T18:02:27.807Z" },
+    { url = "https://files.pythonhosted.org/packages/cc/58/9e75713bd4c96e8c15aa9abcbe5ddc6f1d1ec87e85dbc39ab825f9271adc/jupyterlab_browser_ai-0.5.1-py3-none-any.whl", hash = "sha256:3dace5391b5102ff2b5929ac4a37ae73f932a420a6569d386e8388384c90f0b8", size = 4173570, upload-time = "2025-10-29T08:36:09.155Z" },
 ]
 
 [[package]]

@@ -487,5 +487,5 @@ TODO: AI in `jupyterlite-terminal` screencast
 
 # References
 
-- Presentation: https://github.com/jtpio/jupytercon-2025
-- Live version: https://jtpio.github.io/jupytercon-2025/files/index.html
+- Presentation: https://github.com/jtpio/jupytercon-2025-browser-ai-workflows
+- Live version: https://jtpio.github.io/jupytercon-2025-browser-ai-workflows/files/index.html

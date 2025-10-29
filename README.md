@@ -4,7 +4,7 @@
 
 ### 2025-11-04
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge-launch.svg)](http://jtpio.github.io/jupytercon-2025/lab/index.html?path=index.html)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge-launch.svg)](http://jtpio.github.io/jupytercon-2025-browser-ai-workflows/lab/index.html?path=index.html)
 
 ![JupyterCon 2025](images/jupytercon.png)
 
