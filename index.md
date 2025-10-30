@@ -484,13 +484,18 @@ https://modelcontextprotocol.io
 
 # What's Next?
 
-- AI CLI tool via `jupyterlite-terminal`
 - Real Time Collaboration and chat
 - Tool calls with built-in AI models (ChromeAI, EdgeAI)
+- AI CLI tool via `jupyterlite-terminal`
 
 ---
 
-TODO: AI in `jupyterlite-terminal` screencast
+<video
+  controls
+  width="100%"
+  height="600px"
+  src="https://github.com/user-attachments/assets/19b86ebc-668b-4ce1-984e-7809f8046abb">
+</video>
 
 ---
 
